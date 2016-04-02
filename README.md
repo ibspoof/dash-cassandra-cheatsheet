@@ -21,3 +21,9 @@ mkdir ~/Library/Application\ Support/Dash/Cheat\ Sheets/cassandra
 ```
 mv cassandra.docset ~/Library/Application\ Support/Dash/Cheat\ Sheets/cassandra/
 ```
+
+### Quick Installation
+
+```
+wget https://github.com/ibspoof/dash-cassandra-cheatsheet/releases/download/v1.0.0/cassandra.zip && unzip cassandra.zip && mv cassandra ~/Library/Application\ Support/Dash/Cheat\ Sheets/
+```
